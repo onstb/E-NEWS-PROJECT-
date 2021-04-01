@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>img/Add-icon.png</file>
+        <file>img/delete-icon.png</file>
+        <file>img/images.png</file>
+        <file>img/unnamed.png</file>
+        <file>img/user-add-icon---shine-set-add-new-user-add-user-30.png</file>
+    </qresource>
+</RCC>
